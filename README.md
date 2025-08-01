@@ -28,8 +28,7 @@
   </a>
   &emsp;
   <a href="https://es.react.dev/" target="_blank"> 
-    <img alt="ReactJs" src="https://img.shields.io/badge/ReactJS-blue?style=flat
-"/>
+    <img alt="ReactJs" src="https://img.shields.io/badge/React-blue?style=flat"/>
   </a>
 </p>
 
